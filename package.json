@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "es6-template-strings": "^2.0.1",
+    "password-prompt": "^1.0.7"
+  }
+}
